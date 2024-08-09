@@ -1,9 +1,6 @@
 <?php
 
-	for ($i = 0; $i < 50000000000000000000; $i++) { 
-		# code...
-	}
-
+	for($i = 0; $i < 50000000; $i++){}
 ?>
 
 <div class="panel panel-default">
